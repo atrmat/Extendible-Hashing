@@ -1,0 +1,10 @@
+This is an implementation of Extendible hashing algorithm.
+Details: http://en.wikipedia.org/wiki/Extendible_hashing.
+
+Version for hard drive is not completed yet.
+
+TODO:
+1. Use bounded wildcards for EHash.
+2. Check synchronization.
+3. Add comments.
+4. Add complex test for disk implementation of hash.
